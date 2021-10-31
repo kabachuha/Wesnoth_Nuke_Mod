@@ -1,0 +1,120 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
+"POT-Creation-Date: 2021-10-31 14:19 UTC\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. [message]: id=Rakshas
+#: Nuke_Mod\fun.cfg:76
+msgid "(<i>Gurgle</i>) Fools...! I... have... just... pressed... "
+msgstr ""
+
+#. [print]
+#: Nuke_Mod\fun.cfg:87
+msgid "Self-Destruction initiated!"
+msgstr ""
+
+#. [print]
+#: Nuke_Mod\fun.cfg:96
+#: Nuke_Mod\_main.cfg:413
+msgid "3"
+msgstr ""
+
+#. [print]
+#: Nuke_Mod\fun.cfg:105
+#: Nuke_Mod\_main.cfg:422
+msgid "2"
+msgstr ""
+
+#. [print]
+#: Nuke_Mod\fun.cfg:114
+#: Nuke_Mod\_main.cfg:431
+msgid "1"
+msgstr ""
+
+#. [message]: id=Rakshas
+#: Nuke_Mod\fun.cfg:256
+msgid "<big>EXPLODE ALL BRIDGES!</big>"
+msgstr ""
+
+#. [message]
+#: Nuke_Mod\fun.cfg:285
+msgid "FOR WESTERN ARMY!!!"
+msgstr ""
+
+#. [modification]: id=Nuke_Mod, type=hybrid
+#: Nuke_Mod\_main.cfg:10
+msgid "Nuke Mod"
+msgstr ""
+
+#. [modification]: id=Nuke_Mod, type=hybrid
+#: Nuke_Mod\_main.cfg:13
+msgid "Allows the players to drop devastating airstrikes on each other."
+msgstr ""
+
+#. [set_menu_item]: id=buildbomb
+#: Nuke_Mod\_main.cfg:69
+msgid "Build a missle silo (costs 1000 gold)"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Nuke_Mod\_main.cfg:101
+msgid "Not enough gold to build a missile silo!"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Nuke_Mod\_main.cfg:121
+msgid "You can only build a missile silo adjancent to your units!"
+msgstr ""
+
+#. [set_menu_item]: id=tsarbomba
+#: Nuke_Mod\_main.cfg:176
+msgid "Drop a nuke at this place"
+msgstr ""
+
+#. [set_menu_item]: id=bomb
+#: Nuke_Mod\_main.cfg:232
+msgid "Drop a tactical charge at this place (costs 200 gold)"
+msgstr ""
+
+#. [message]: speaker=narrator
+#: Nuke_Mod\_main.cfg:253
+msgid "Not enough gold to launch a tactical charge!"
+msgstr ""
+
+#. [print]
+#: Nuke_Mod\_main.cfg:309
+msgid "Incoming air strike!!!"
+msgstr ""
+
+#. [print]
+#: Nuke_Mod\_main.cfg:348
+msgid "Launch silo destroyed!!!"
+msgstr ""
+
+#. [print]
+#: Nuke_Mod\_main.cfg:386
+msgid "Incoming Nuclear Attack!!!"
+msgstr ""
+
+#. [print]
+#: Nuke_Mod\_main.cfg:395
+msgid "5"
+msgstr ""
+
+#. [print]
+#: Nuke_Mod\_main.cfg:404
+msgid "4"
+msgstr ""
+
+#. [print]
+#: Nuke_Mod\_main.cfg:440
+msgid "BOOM!!!"
+msgstr ""
+
