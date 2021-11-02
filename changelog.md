@@ -2,7 +2,11 @@
 
 ## 0.2.0b
 
-- Added sliders to customize the costs of nukes and charges.
+- Now the 'build silo' option only appears on tiles adjancent to units
+
+- Added a combobox for the radiation duration
+
+- Added sliders to customize the costs of nukes and charges
 
 - Make cleanup in every ending, both victory and defeat, instead of only on victories
 
