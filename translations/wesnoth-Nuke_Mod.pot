@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2021-10-31 14:19 UTC\n"
+"POT-Creation-Date: 2021-11-02 18:00 UTC\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -22,19 +22,19 @@ msgstr ""
 
 #. [print]
 #: Nuke_Mod\fun.cfg:96
-#: Nuke_Mod\_main.cfg:413
+#: Nuke_Mod\_main.cfg:405
 msgid "3"
 msgstr ""
 
 #. [print]
 #: Nuke_Mod\fun.cfg:105
-#: Nuke_Mod\_main.cfg:422
+#: Nuke_Mod\_main.cfg:414
 msgid "2"
 msgstr ""
 
 #. [print]
 #: Nuke_Mod\fun.cfg:114
-#: Nuke_Mod\_main.cfg:431
+#: Nuke_Mod\_main.cfg:423
 msgid "1"
 msgstr ""
 
@@ -48,6 +48,56 @@ msgstr ""
 msgid "FOR WESTERN ARMY!!!"
 msgstr ""
 
+#. [slider]: id=nm_silo_cost
+#: Nuke_Mod\options.cfg:12
+msgid "Silo cost"
+msgstr ""
+
+#. [slider]: id=nm_silo_cost
+#: Nuke_Mod\options.cfg:13
+msgid "How much does building a silo cost"
+msgstr ""
+
+#. [slider]: id=nm_tactical_charge_cost
+#: Nuke_Mod\options.cfg:21
+msgid "Airstrike cost"
+msgstr ""
+
+#. [slider]: id=nm_tactical_charge_cost
+#: Nuke_Mod\options.cfg:22
+msgid "How much does dropping a tactical charge cost"
+msgstr ""
+
+#. [choice]: id=nm_radiation_duration
+#: Nuke_Mod\options.cfg:27
+msgid "Radiation duration"
+msgstr ""
+
+#. [choice]: id=nm_radiation_duration
+#: Nuke_Mod\options.cfg:28
+msgid "How much does radiation effects last (excluding poison!). The effects include poisoning, stunning, slowing and gaining additional attacks"
+msgstr ""
+
+#. [item]
+#: Nuke_Mod\options.cfg:30
+msgid "Forever"
+msgstr ""
+
+#. [item]
+#: Nuke_Mod\options.cfg:34
+msgid "Scenario"
+msgstr ""
+
+#. [item]
+#: Nuke_Mod\options.cfg:38
+msgid "End of the next turn"
+msgstr ""
+
+#. [item]
+#: Nuke_Mod\options.cfg:42
+msgid "End of this turn"
+msgstr ""
+
 #. [modification]: id=Nuke_Mod, type=hybrid
 #: Nuke_Mod\_main.cfg:10
 msgid "Nuke Mod"
@@ -59,62 +109,57 @@ msgid "Allows the players to drop devastating airstrikes on each other."
 msgstr ""
 
 #. [set_menu_item]: id=buildbomb
-#: Nuke_Mod\_main.cfg:69
-msgid "Build a missle silo (costs 1000 gold)"
+#: Nuke_Mod\_main.cfg:71
+msgid "Build a missle silo (costs $nm_silo_cost gold)"
 msgstr ""
 
 #. [message]: speaker=narrator
-#: Nuke_Mod\_main.cfg:101
+#: Nuke_Mod\_main.cfg:114
 msgid "Not enough gold to build a missile silo!"
 msgstr ""
 
-#. [message]: speaker=narrator
-#: Nuke_Mod\_main.cfg:121
-msgid "You can only build a missile silo adjancent to your units!"
-msgstr ""
-
 #. [set_menu_item]: id=tsarbomba
-#: Nuke_Mod\_main.cfg:176
+#: Nuke_Mod\_main.cfg:168
 msgid "Drop a nuke at this place"
 msgstr ""
 
 #. [set_menu_item]: id=bomb
-#: Nuke_Mod\_main.cfg:232
-msgid "Drop a tactical charge at this place (costs 200 gold)"
+#: Nuke_Mod\_main.cfg:224
+msgid "Drop a tactical charge at this place (costs $nm_tactical_charge_cost gold)"
 msgstr ""
 
 #. [message]: speaker=narrator
-#: Nuke_Mod\_main.cfg:253
+#: Nuke_Mod\_main.cfg:245
 msgid "Not enough gold to launch a tactical charge!"
 msgstr ""
 
 #. [print]
-#: Nuke_Mod\_main.cfg:309
+#: Nuke_Mod\_main.cfg:301
 msgid "Incoming air strike!!!"
 msgstr ""
 
 #. [print]
-#: Nuke_Mod\_main.cfg:348
+#: Nuke_Mod\_main.cfg:340
 msgid "Launch silo destroyed!!!"
 msgstr ""
 
 #. [print]
-#: Nuke_Mod\_main.cfg:386
+#: Nuke_Mod\_main.cfg:378
 msgid "Incoming Nuclear Attack!!!"
 msgstr ""
 
 #. [print]
-#: Nuke_Mod\_main.cfg:395
+#: Nuke_Mod\_main.cfg:387
 msgid "5"
 msgstr ""
 
 #. [print]
-#: Nuke_Mod\_main.cfg:404
+#: Nuke_Mod\_main.cfg:396
 msgid "4"
 msgstr ""
 
 #. [print]
-#: Nuke_Mod\_main.cfg:440
+#: Nuke_Mod\_main.cfg:432
 msgid "BOOM!!!"
 msgstr ""
 
