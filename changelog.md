@@ -1,5 +1,9 @@
 # Wesnoth Nuke Mod Changelog
 
+## 0.2.1b-hotfix
+
+- Fixed default values not available in singleplayer due to the new mp options
+
 ## 0.2.0b
 
 - Now the 'build silo' option only appears on tiles adjancent to units
