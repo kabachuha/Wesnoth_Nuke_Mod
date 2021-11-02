@@ -2,7 +2,9 @@
 
 ## 0.2.0b
 
-- Make cleanup in every ending, both victory and defeat
+- Added sliders to customize the costs of nukes and charges.
+
+- Make cleanup in every ending, both victory and defeat, instead of only on victories
 
 ## 0.1.1b
 
