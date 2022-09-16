@@ -2,101 +2,13 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2021-11-02 18:00 UTC\n"
+"POT-Creation-Date: 2022-09-15 21:19 UTC\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-
-#. [message]: id=Rakshas
-#: Nuke_Mod\fun.cfg:76
-msgid "(<i>Gurgle</i>) Fools...! I... have... just... pressed... "
-msgstr ""
-
-#. [print]
-#: Nuke_Mod\fun.cfg:87
-msgid "Self-Destruction initiated!"
-msgstr ""
-
-#. [print]
-#: Nuke_Mod\fun.cfg:96
-#: Nuke_Mod\_main.cfg:405
-msgid "3"
-msgstr ""
-
-#. [print]
-#: Nuke_Mod\fun.cfg:105
-#: Nuke_Mod\_main.cfg:414
-msgid "2"
-msgstr ""
-
-#. [print]
-#: Nuke_Mod\fun.cfg:114
-#: Nuke_Mod\_main.cfg:423
-msgid "1"
-msgstr ""
-
-#. [message]: id=Rakshas
-#: Nuke_Mod\fun.cfg:256
-msgid "<big>EXPLODE ALL BRIDGES!</big>"
-msgstr ""
-
-#. [message]
-#: Nuke_Mod\fun.cfg:285
-msgid "FOR WESTERN ARMY!!!"
-msgstr ""
-
-#. [slider]: id=nm_silo_cost
-#: Nuke_Mod\options.cfg:12
-msgid "Silo cost"
-msgstr ""
-
-#. [slider]: id=nm_silo_cost
-#: Nuke_Mod\options.cfg:13
-msgid "How much does building a silo cost"
-msgstr ""
-
-#. [slider]: id=nm_tactical_charge_cost
-#: Nuke_Mod\options.cfg:21
-msgid "Airstrike cost"
-msgstr ""
-
-#. [slider]: id=nm_tactical_charge_cost
-#: Nuke_Mod\options.cfg:22
-msgid "How much does dropping a tactical charge cost"
-msgstr ""
-
-#. [choice]: id=nm_radiation_duration
-#: Nuke_Mod\options.cfg:27
-msgid "Radiation duration"
-msgstr ""
-
-#. [choice]: id=nm_radiation_duration
-#: Nuke_Mod\options.cfg:28
-msgid "How much does radiation effects last (excluding poison!). The effects include poisoning, stunning, slowing and gaining additional attacks"
-msgstr ""
-
-#. [item]
-#: Nuke_Mod\options.cfg:30
-msgid "Forever"
-msgstr ""
-
-#. [item]
-#: Nuke_Mod\options.cfg:34
-msgid "Scenario"
-msgstr ""
-
-#. [item]
-#: Nuke_Mod\options.cfg:38
-msgid "End of the next turn"
-msgstr ""
-
-#. [item]
-#: Nuke_Mod\options.cfg:42
-msgid "End of this turn"
-msgstr ""
 
 #. [modification]: id=Nuke_Mod, type=hybrid
 #: Nuke_Mod\_main.cfg:10
@@ -134,32 +46,170 @@ msgid "Not enough gold to launch a tactical charge!"
 msgstr ""
 
 #. [print]
-#: Nuke_Mod\_main.cfg:301
+#: Nuke_Mod\_main.cfg:302
 msgid "Incoming air strike!!!"
 msgstr ""
 
 #. [print]
-#: Nuke_Mod\_main.cfg:340
+#: Nuke_Mod\_main.cfg:344
 msgid "Launch silo destroyed!!!"
 msgstr ""
 
 #. [print]
-#: Nuke_Mod\_main.cfg:378
+#: Nuke_Mod\_main.cfg:385
 msgid "Incoming Nuclear Attack!!!"
 msgstr ""
 
 #. [print]
-#: Nuke_Mod\_main.cfg:387
+#: Nuke_Mod\_main.cfg:394
 msgid "5"
 msgstr ""
 
 #. [print]
-#: Nuke_Mod\_main.cfg:396
+#: Nuke_Mod\_main.cfg:403
 msgid "4"
 msgstr ""
 
 #. [print]
-#: Nuke_Mod\_main.cfg:432
+#: Nuke_Mod\_main.cfg:412
+#: Nuke_Mod\fun.cfg:96
+msgid "3"
+msgstr ""
+
+#. [print]
+#: Nuke_Mod\_main.cfg:421
+#: Nuke_Mod\fun.cfg:105
+msgid "2"
+msgstr ""
+
+#. [print]
+#: Nuke_Mod\_main.cfg:430
+#: Nuke_Mod\fun.cfg:114
+msgid "1"
+msgstr ""
+
+#. [print]
+#: Nuke_Mod\_main.cfg:439
 msgid "BOOM!!!"
+msgstr ""
+
+#. [message]: id=Rakshas
+#: Nuke_Mod\fun.cfg:76
+msgid "(<i>Gurgle</i>) Fools...! I... have... just... pressed... "
+msgstr ""
+
+#. [print]
+#: Nuke_Mod\fun.cfg:87
+msgid "Self-Destruction initiated!"
+msgstr ""
+
+#. [message]: id=Rakshas
+#: Nuke_Mod\fun.cfg:257
+msgid "<big>EXPLODE ALL BRIDGES!</big>"
+msgstr ""
+
+#. [message]
+#: Nuke_Mod\fun.cfg:286
+msgid "FOR WESTERN ARMY!!!"
+msgstr ""
+
+#. [slider]: id=nm_silo_cost
+#: Nuke_Mod\options.cfg:12
+msgid "Silo cost"
+msgstr ""
+
+#. [slider]: id=nm_silo_cost
+#: Nuke_Mod\options.cfg:13
+msgid "How much does building a silo cost"
+msgstr ""
+
+#. [slider]: id=nm_tactical_charge_cost
+#: Nuke_Mod\options.cfg:21
+msgid "Airstrike cost"
+msgstr ""
+
+#. [slider]: id=nm_tactical_charge_cost
+#: Nuke_Mod\options.cfg:22
+msgid "How much does dropping a tactical charge cost"
+msgstr ""
+
+#. [slider]: id=nm_destruction_radius
+#: Nuke_Mod\options.cfg:30
+msgid "Complete destruction radius"
+msgstr ""
+
+#. [slider]: id=nm_destruction_radius
+#: Nuke_Mod\options.cfg:31
+msgid "The radius of an area where the terrain will be completely destroyed"
+msgstr ""
+
+#. [slider]: id=nm_airblast_radius
+#: Nuke_Mod\options.cfg:39
+msgid "Airblast radius"
+msgstr ""
+
+#. [slider]: id=nm_airblast_radius
+#: Nuke_Mod\options.cfg:40
+msgid "The radius within which the terrain overlays (such as forests) will be removed"
+msgstr ""
+
+#. [slider]: id=nm_debilitation_radius
+#: Nuke_Mod\options.cfg:48
+msgid "Debilitation radius"
+msgstr ""
+
+#. [slider]: id=nm_debilitation_radius
+#: Nuke_Mod\options.cfg:49
+msgid "The radius within which units will lose all their HP except for 1"
+msgstr ""
+
+#. [slider]: id=nm_death_radius
+#: Nuke_Mod\options.cfg:57
+msgid "Death radius"
+msgstr ""
+
+#. [slider]: id=nm_death_radius
+#: Nuke_Mod\options.cfg:58
+msgid "The radius within which units will be killed"
+msgstr ""
+
+#. [slider]: id=nm_radiation_extra_attacks
+#: Nuke_Mod\options.cfg:66
+msgid "Extra radiation attacks"
+msgstr ""
+
+#. [slider]: id=nm_radiation_extra_attacks
+#: Nuke_Mod\options.cfg:67
+msgid "How many extra attacks do irradiated units gain"
+msgstr ""
+
+#. [choice]: id=nm_radiation_duration
+#: Nuke_Mod\options.cfg:72
+msgid "Radiation duration"
+msgstr ""
+
+#. [choice]: id=nm_radiation_duration
+#: Nuke_Mod\options.cfg:73
+msgid "How much does radiation effects last (excluding poison!). The effects include poisoning, stunning, slowing and gaining additional attacks"
+msgstr ""
+
+#. [item]
+#: Nuke_Mod\options.cfg:75
+msgid "Forever"
+msgstr ""
+
+#. [item]
+#: Nuke_Mod\options.cfg:79
+msgid "Scenario"
+msgstr ""
+
+#. [item]
+#: Nuke_Mod\options.cfg:83
+msgid "End of the next turn"
+msgstr ""
+
+#. [item]
+#: Nuke_Mod\options.cfg:87
+msgid "End of this turn"
 msgstr ""
 
